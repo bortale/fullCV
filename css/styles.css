@@ -52,27 +52,27 @@ button {
     text-align: justify;
     margin: 8px;
 }
-.contacts {
+/* .contacts {
     margin: 40px 0;
-}
+} */
 
-.contacts-all {
-    align-items: center;
-}
+/* .contacts-all {
+    align-items: center; */
+
 
 .contacts img {
     height: 30px;
     width: 30px;
     margin: 5px 10px;
 }   
-.contacts-link {
+/* .contacts-link {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     font-size: 13px;
     text-decoration: none;
     color: rgb(156, 51, 33);
-}
+} */
 
 .right-row {
     background-color: rgb(250, 238, 255);
